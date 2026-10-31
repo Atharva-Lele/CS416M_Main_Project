@@ -1,5 +1,4 @@
-# IITB ProjectShare — Stage I backend prototype
-
+##Main-Project
 This is a small local Express + SQLite API prototype for demonstrating authentication, file sharing, and server-side authorization.
 
 ## Requirements
