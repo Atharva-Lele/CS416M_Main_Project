@@ -1,0 +1,9 @@
+node_modules/
+data/
+storage/
+.env
+iitb-projectshare-crypto-demo/
+reports/
+test/
+CS416M_Presentation_MainProject.pdf
+Main-Project_recording.mp4
