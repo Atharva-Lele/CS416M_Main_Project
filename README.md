@@ -11,7 +11,7 @@ A local prototype for sharing course files with access controls and browser-side
 
 ## Run locally
 
-Requirements: Node.js 18 or newer and npm.
+Requirements: Node.js 18 or newer and npm. SQLite is used through the `better-sqlite3` package; no separate database server or manual database setup is needed. On first run, the app creates `data/projectshare.sqlite` locally.
 
 ```powershell
 npm install
